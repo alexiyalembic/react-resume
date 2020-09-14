@@ -18,7 +18,7 @@ const Contact = (props) => {
 
             <h3>
               <a
-                href="mailto:skok@vova.io?subject=Resume%20Inquiry"
+                href="mailto:alexiy.charamko@luteus.io?subject=Resume%20Inquiry"
                 style={{textDecoration: 'none'}}
               >
                 {email}
@@ -27,7 +27,7 @@ const Contact = (props) => {
 
             <h3>
               <a
-                href="https://linkedin.com/in/iamskok"
+                href="https://linkedin.com/in/alexiy-charamko"
                 style={{ textDecoration: 'none'}}
                 target="_blank"
                 rel="noopener noreferrer"

@@ -1,31 +1,38 @@
 {
   "basics": {
-    "name": "Vladimir Skok",
-    "label": "Frontend Engineer",
-    "email": "skok@vova.io",
-    "phone": "(609) 666-4644",
-    "website": "linkedin.com",
-    "summary": "Organized and motivated frontend developer seeking to work closely with a team of experienced engineers to craft a product that has an impact.",
+    "name": "Alexiy Charamko",
+    "label": "Data Scientist and Engineer",
+    "email": "alexiy.charamko@luteus.io",
+    "phone": "+84382727120",
+    "website": "linkedin.com/alexiy-charamko/",
+    "summary": "I have a passion for mathematical modeling and developing well-architected systems to solve real world problems.\n\nIn solving problems I focus on finding and implementing references to the real world phenomena - for example identifying traits that are relevant to a problem, or designing a data model that reflects the real world.\n\nI bring with me experience working in multiple verticals and disciplines: physical retail, finance and lending, digital marketing, mechanical engineering, & genetics.\n",
     "location": {
-      "postalCode": "93101",
-      "city": "San Diego",
-      "countryCode": "US",
-      "region": "SD"
+      "postalCode": "10000",
+      "city": "Ho Chi Minh City",
+      "countryCode": "VN",
+      "region": ""
     },
-    "pdf": "vladimir-skok.pdf"
+    "pdf": "alexiy-charamko.pdf"
   },
   "work": [
     {
-      "company": "Freelance",
-      "current": false,
-      "position": "Frontend Engineer",
-      "startDate": "August 2017",
-      "endDate": "January 2019",
-      "summary": "Various projects utilizing ES6, Gatsby, Sass and WordPress.",
+      "company": "Uno Home Loans",
+      "current": true,
+      "position": "Team Lead and Data Scientist",
+      "startDate": "2017-07",
+      "summary": "Lead for a team of 2 other data analysts, reporting directly to CTO and other C-levels.",
       "highlights": [
-        "Improved client's development workflow by incorpating modern tools like: Webpack, Gulp, ESLint, Prettier, Jest, Ansible and others.",
-        "Ensure that the developing codebase conforms to best practices with regard to coding standards.",
-        "A/B tested multiple CTA components and improved conversions by 23%"
+        "Designed and developed sales lead prioritisation model using random forests (leadScore).",
+        "Designed and developed ad-hoc machine learning models to understand customer propensity to do X or have Y value.",
+        "Designed and developed machine learning unsupervised clustering of customers for marketing personas.",
+        "Designed and developed a machine learning model to understand the characteristics of a complex financial calculator (loan serviceability).",
+        "Designed and developed customer facing algorithm for assessing their current home loan (loanScore, Australian Good Design Award 2020).",
+        "Established core data development library - automated deployment, automated testing, common library functions and classes",
+        "Established data governance framework - nomenclature, data dictionaries, access roles, work prioritisation flow, development flow, secure sharing of data.",
+        "Designed and developed automated framework for machine learning environment creation using AWS CLI, terraform, and AWS Sagemaker.",
+        "Designed and developed data lake, data warehouse and ETL processing jobs for ~20 data sources using event sourcing pattern, PySpark, AWS Lake Formation, AWS S3, AWS Glue, AWS Redshift, AWS DMS, AWS CLI, and terraform.",
+        "Designed entity relationship model for the business.",
+        "Designed and developed various self-serve dashboards and ad-hoc analyses using Tableau, Apache Zeppelin, Jupyter Notebooks, and later Mode Analytics."
       ]
     },
     {
@@ -58,38 +65,70 @@
       ]
     }
   ],
-  "education": [{
-    "institution": "The Russian Presidential Academy of National Economy and Public Administration (RANEPA)",
-    "area": "Business Administration and Management",
-    "studyType": "Master's degree",
-    "endDate": "2013"
-  }],
+  "education": [
+    {
+      "institution": "The University of New South Wales",
+      "area": "Mechanical and Manufacturing Engineering",
+      "studyType": "Bachelor's degree",
+      "endDate": "2014"
+    },
+    {
+      "institution": "The University of New South Wales",
+      "area": "Genetics",
+      "studyType": "Bachelor's degree",
+      "endDate": "2016"
+    }
+  ],
   "skills": {
     "keywords": [
+      "Bayesian and Fisher statistics",
+      "Random forests",
+      "Neural networks",
+      "PCA",
+      "Mathematical simulations",
+      "Signal processing",
+      "Linear systems and control engineering",
+      "Experiment design",
+      "SQL RDBMS’",
+      "Apache Spark",
+      "Apache Kafka",
+      "AWS DynamoDB",
+      "AWS S3",
+      "AWS Glue",
+      "AWS Redshift",
+      "InfluxDB",
+      "D3.js",
+      "Vega.js",
+      "ggplot",
+      "seaborn",
+      "Tableau",
+      "Amplitude",
+      "Apache Zeppelin",
+      "Mode Analytics",
+      "Grafana",
+      "Google Analytics",
+      "Jupyter Notebooks",
+      "Python",
+      "R",
+      "Javascript",
       "HTML",
       "CSS",
-      "Javascript",
-      "ES6",
-      "React",
-      "Gatsby",
-      "Node",
-      "Sass",
-      "Git",
-      "WordPress",
-      "REST APIs",
-      "Ansible",
-      "Vagrant",
-      "Virtual Box",
-      "Jenkins",
-      "Jest",
-      "Jasmine",
-      "Mocha",
-      "Phantom",
-      "Firebase",
-      "TypeScript",
-      "Linux",
-      "Mac OS",
-      "Liquid"
+      "git",
+      "docker",
+      "k8s",
+      "CI/CD",
+      "make files",
+      "shell/bash",
+      "terraform",
+      "AWS ECS",
+      "AWS Lambda",
+      "Data governance frameworks",
+      "Data naming conventions",
+      "Metadata",
+      "Data lineaga",
+      "Data work prioritisation",
+      "Data roles and access",
+      "Data security"
     ]
   }
 }
