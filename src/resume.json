@@ -5,7 +5,7 @@
     "email": "alexiy.charamko@luteus.io",
     "phone": "+84382727120",
     "website": "linkedin.com/alexiy-charamko/",
-    "summary": "I have a passion for mathematical modeling and developing well-architected systems to solve real world problems.\n\nIn solving problems I focus on finding and implementing references to the real world phenomena - for example identifying traits that are relevant to a problem, or designing a data model that reflects the real world.\n\nI bring with me experience working in multiple verticals and disciplines: physical retail, finance and lending, digital marketing, mechanical engineering, & genetics.\n",
+    "summary": "I have a passion for mathematical modeling and developing well-architected systems to solve real world problems. In solving problems I focus on finding and implementing references to the underlying real world phenomena.",
     "location": {
       "postalCode": "10000",
       "city": "Ho Chi Minh City",
@@ -19,6 +19,7 @@
       "company": "Uno Home Loans",
       "current": true,
       "position": "Team Lead and Data Scientist",
+      "website": "https://unohomeloans.com.au/",
       "startDate": "2017-07",
       "summary": "Lead for a team of 2 other data analysts, reporting directly to CTO and other C-levels.",
       "highlights": [
@@ -36,45 +37,40 @@
       ]
     },
     {
-      "company": "Recovery Brands",
+      "company": "Skyfii",
       "current": false,
-      "position": "Frontend Engineer",
-      "website": "https://www.recoverybrands.com",
-      "startDate": "May 2013",
-      "endDate": "June 2017",
-      "summary": "Add features and fix bugs for Recovery Brands network of websites.",
+      "position": "Data Scientist",
+      "website": "https://skyfii.io/",
+      "startDate": "2016-11",
+      "endDate": "2017-06",
+      "summary": "Junior in a team of 3 data scientists.",
       "highlights": [
-        "Built \"Recovery Brands\" Sass framework, its automated build process, and documentation.",
-        "Implemented structured data markup across multiple websites of \"Recovery Brands\" network, which led to a 5% increase in CTR.",
-        "Consistently took part in adding new features for a network of 20+ WordPress websites (such as Rehabs.com) with a total amount of 5m+ visitors per month.",
-        "Ran workshops and talks on CSS & Sass architecture for the team of 5 frontend developers."
+        "Designed and developed clustering analysis of spatial movement data.",
+        "Designed and developed metrics based on spatial movement data and retail sales.",
+        "Designed and automated creation of reports to present to customers.",
+        "Worked with sales and spatial data from 1000s of physical locations (typically retail)."
       ]
     },
     {
-      "company": "Udacity",
+      "company": "UNSW Voineagu Group",
       "current": false,
-      "position": "Frontend Developer [Remote]",
-      "website": "https://www.udacity.com",
-      "startDate": "April 2016",
-      "endDate": "August 2016",
-      "summary": "Sass architecture and development of Udacity Blitz React app.",
+      "position": "Research Assistant (Hons.)",
+      "website": "https://www.babs.unsw.edu.au/research/facilities-services/voineagu-lab",
+      "startDate": "2015-07",
+      "endDate": "2016-07",
+      "summary": "Conducting research to further laboratory topics, and teaching interns.",
       "highlights": [
-        "Frontend Sass development with the focus on reusability and cross-browser compatibility.",
-        "Implemented the Udacity Blitz UI kit using Sass.",
-        "Implemented UI atoms."
+        "Developed data analysis pipeline for multi-tissue genomic data (> 500 GB).",
+        "Automated statistical testing and data exploration.",
+        "Investigated statistical and real-world (biological) significance of analyses.",
+        "Co-authored paper - http://dx.doi.org/10.1007/s00018-016-2304-0"
       ]
     }
   ],
   "education": [
     {
       "institution": "The University of New South Wales",
-      "area": "Mechanical and Manufacturing Engineering",
-      "studyType": "Bachelor's degree",
-      "endDate": "2014"
-    },
-    {
-      "institution": "The University of New South Wales",
-      "area": "Genetics",
+      "area": "Genetics + Mechanical and Manufacturing Engineering",
       "studyType": "Bachelor's degree",
       "endDate": "2016"
     }
@@ -121,14 +117,7 @@
       "shell/bash",
       "terraform",
       "AWS ECS",
-      "AWS Lambda",
-      "Data governance frameworks",
-      "Data naming conventions",
-      "Metadata",
-      "Data lineaga",
-      "Data work prioritisation",
-      "Data roles and access",
-      "Data security"
+      "AWS Lambda"
     ]
   }
 }
