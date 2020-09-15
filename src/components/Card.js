@@ -4,7 +4,7 @@ import Jobs from './Job';
 class Card extends Component {
   render() {
     const { work } = this.props.resumeObj;
-    const bgColors = ['#fb8c00', '#3949ab', '#e53935'];
+    const bgColors = ['#14213D', '#FCA311', '#E5E5E5'];
    
     return (
       <div className="card__container">
